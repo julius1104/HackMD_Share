@@ -1,4 +1,7 @@
 # Video Capture with Loop Card on Ubuntu 16.04
+
+[![hackmd-github-sync-badge](https://hackmd.io/bRtrT5YxRvCtYc0vMFDSAA/badge)](https://hackmd.io/bRtrT5YxRvCtYc0vMFDSAA)
+
 ###### tags: `Ubuntu` `Video Capture` `Ubuntu 16.04`
 
 
