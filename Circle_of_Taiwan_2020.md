@@ -1,4 +1,7 @@
 # Circle Of Visited Island Days in 2020
+
+[![hackmd-github-sync-badge](https://hackmd.io/s0C81XutTt6n_rKobTqa3Q/badge)](https://hackmd.io/s0C81XutTt6n_rKobTqa3Q)
+
 ###### tags: `Travel` `Taiwan`
 
 ### 主題: 台灣極"地"之旅
